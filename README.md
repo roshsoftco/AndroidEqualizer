@@ -10,6 +10,16 @@ Add Equalizer in your Android app
   <img src="https://raw.githubusercontent.com/mosamabinomar/AndroidEqualizer/master/screenshots/Screenshot_1522962331.png" width="300" height="500"/>
 </div>
 
+## Prerequisites
+
+Minimum SDK version should be 21 or above. Check your build.gradle:
+````
+defaultConfig {
+    minSdkVersion 21
+    ...
+}
+````
+
 ## How To Use
 ### STEP 1
 Add it to your build.gradle with:
